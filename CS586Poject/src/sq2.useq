@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.2" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="GasPump.GasPump2" project="CS586Poject" 
+    file="/CS586Poject/src/GasPump/GasPump2.java" binary="false" label="gasPump2" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="74" y="0"/>    
+    <execution id="2">      
+      <position height="683" width="85" x="5" y="99"/>    
+    </execution>  
+  </object>  
+  <object id="19" language="java" name="AbstractFactory.ConcreteFactory2" project="CS586Poject" 
+    file="/CS586Poject/src/AbstractFactory/ConcreteFactory2.java" binary="false" label="concreteFactory2" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="166" y="0"/>    
+    <execution id="4">      
+      <position height="156" width="124" x="94" y="120"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="21" width="124" x="94" y="438"/>    
+    </execution>  
+  </object>  
+  <object id="23" language="java" name="CS586Project.State.MDA_EFSM" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/MDA_EFSM.java" binary="false" label="mda_EFSM" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="296" y="0"/>    
+    <execution id="6">      
+      <position height="63" width="89" x="222" y="160"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="63" width="89" x="222" y="277"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="63" width="89" x="222" y="355"/>    
+    </execution>    
+    <execution id="12">      
+      <position height="63" width="89" x="222" y="467"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="63" width="89" x="222" y="550"/>    
+    </execution>    
+    <execution id="16">      
+      <position height="63" width="89" x="222" y="621"/>    
+    </execution>    
+    <execution id="18">      
+      <position height="63" width="89" x="222" y="698"/>    
+    </execution>  
+  </object>  
+  <object id="38" language="java" name="CS586Project.State.InitState" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/InitState.java" binary="false" label="initState" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="400" y="0"/>    
+    <execution id="25">      
+      <position height="21" width="89" x="315" y="181"/>    
+    </execution>  
+  </object>  
+  <object id="39" language="java" name="CS586Project.State.s0" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/s0.java" binary="false" label="s0" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="466" y="0"/>    
+    <execution id="27">      
+      <position height="21" width="89" x="408" y="298"/>    
+    </execution>  
+  </object>  
+  <object id="40" language="java" name="CS586Project.State.s1" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/s1.java" binary="false" label="s1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="593" y="0"/>    
+    <execution id="29">      
+      <position height="21" width="89" x="501" y="376"/>    
+    </execution>  
+  </object>  
+  <object id="41" language="java" name="CS586Project.State.s2" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/s2.java" binary="false" label="s2" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="655" y="0"/>  
+  </object>  
+  <object id="42" language="java" name="CS586Project.State.s3" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/s3.java" binary="false" label="s3" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="759" y="0"/>    
+    <execution id="31">      
+      <position height="21" width="89" x="687" y="488"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="63" width="89" x="687" y="417"/>    
+    </execution>  
+  </object>  
+  <object id="45" language="java" name="CS586Project.State.s4" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/s4.java" binary="false" label="s4" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="830" y="0"/>    
+    <execution id="33">      
+      <position height="21" width="89" x="780" y="571"/>    
+    </execution>  
+  </object>  
+  <object id="46" language="java" name="CS586Project.State.s5" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/s5.java" binary="false" label="s5" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="920" y="0"/>    
+    <execution id="35">      
+      <position height="21" width="89" x="873" y="642"/>    
+    </execution>  
+  </object>  
+  <object id="47" language="java" name="CS586Project.State.s6" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/s6.java" binary="false" label="s6" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="843" y="0"/>    
+    <execution id="37">      
+      <position height="21" width="89" x="966" y="719"/>    
+    </execution>  
+  </object>  
+  <object id="48" language="java" name="CS586Project.State.s8" project="CS586Poject" 
+    file="/CS586Poject/src/CS586Project/State/s8.java" binary="false" label="s8" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="848" y="0"/>  
+  </object>  
+  <object id="49" language="java" name="DataStore.DataGasPump2" project="CS586Poject" 
+    file="/CS586Poject/src/DataStore/DataGasPump2.java" binary="false" label="dataGasPump2" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="903" y="0"/>    
+    <execution id="21">      
+      <position height="21" width="111" x="1152" y="234"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="ConcreteFactory2()" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="MDA_EFSM()" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="Start():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" operation="PayType(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="11" operation="SelectGas(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13" operation="StartPump():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="15" operation="Pump():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="17" operation="NoReceipt():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="20" operation="DataGasPump2()" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="24" operation="activate():void" asynchronous="false">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="26" operation="start():void" asynchronous="false">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="28" operation="payType(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="30" operation="selectGas(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="32" operation="startPump():void" asynchronous="false">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="34" operation="pump():void" asynchronous="false">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="36" operation="noReceipt():void" asynchronous="false">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="44" operation="getStoreCash():Output.StoreCash" asynchronous="false">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>
+</sequence-diagram>
